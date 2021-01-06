@@ -11,7 +11,7 @@
   "dependencies": {
     "ajax": "^0.0.4",
     "ant-design-vue": "^1.4.11",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.13.0",
     "bootstrap": "^4.4.1",
     "classnames": "^2.2.6",
